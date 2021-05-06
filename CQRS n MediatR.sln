@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CQRS n MediatR", "CQRS n MediatR\CQRS n MediatR.csproj", "{B72430F4-FDBD-4F8E-9043-7BD3B372DA5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoLibrary", "DemoLibrary\DemoLibrary.csproj", "{7354F523-D2E4-4859-AAF6-F6BB3E8C49F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B72430F4-FDBD-4F8E-9043-7BD3B372DA5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B72430F4-FDBD-4F8E-9043-7BD3B372DA5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B72430F4-FDBD-4F8E-9043-7BD3B372DA5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B72430F4-FDBD-4F8E-9043-7BD3B372DA5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7354F523-D2E4-4859-AAF6-F6BB3E8C49F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7354F523-D2E4-4859-AAF6-F6BB3E8C49F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7354F523-D2E4-4859-AAF6-F6BB3E8C49F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7354F523-D2E4-4859-AAF6-F6BB3E8C49F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D97C776B-8634-402E-9A8C-A3539EE56A7E}
+	EndGlobalSection
+EndGlobal
